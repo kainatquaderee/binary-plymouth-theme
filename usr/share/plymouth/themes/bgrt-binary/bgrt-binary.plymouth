@@ -1,6 +1,6 @@
 [Plymouth Theme]
-Name=BGRT-MI
-Description=Based on a theme designed by jimmac that features a simple spinner. This one has Xiaomi progress bar instead.
+Name=BGRT-binary
+Description=Based on a theme designed by jimmac that features a simple spinner. This one has binary progress bar instead.
 ModuleName=two-step
 
 [two-step]
